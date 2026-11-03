@@ -1,0 +1,10 @@
+{
+  "description": "Offers a user-friendly platform to search, explore, and book personalized tours with detailed info, reviews, and expert consultation for travelers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
